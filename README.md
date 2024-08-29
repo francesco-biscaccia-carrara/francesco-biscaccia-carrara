@@ -23,7 +23,8 @@
 - *Advanced Algorithm Design*
 - *Game Theory*
 - *Graph Analysis*
-  as courses at University of Padova
+
+as courses at University of Padova
 ---
 
 ### 🚀 Projects
