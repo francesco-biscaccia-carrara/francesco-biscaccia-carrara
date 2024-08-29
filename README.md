@@ -1,7 +1,7 @@
 # Hi there, I'm Francesco Biscaccia Carrara! 👋
 
-🎓 Software Engineering student at the University of Padova.  
-💻 Passionate about Linear Optimization, Machine Learning and Parallelization.  
+🎓 Master’s student in Computer Engineering at the University of Padova.
+💻 Passionate about Linear Optimization, Machine Learning and Parallelization Computing.  
 🌍 Based in Venice, Italy 🇮🇹.  
 
 ---
@@ -26,9 +26,9 @@
 ---
 
 ### 🚀 Projects
-- **[Parallel Bitonic Sorting]([https://github.com/yourusername/project1](https://github.com/francesco-biscaccia-carrara/BitonicSort))**  
+- **[Parallel Bitonic Sorting](https://github.com/francesco-biscaccia-carrara/BitonicSort)** ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) 
   
-- **[Big Data Computing Projects]([https://github.com/yourusername/project2](https://github.com/francesco-biscaccia-carrara/BigData_Projects))**  
+- **[Big Data Computing Projects](https://github.com/francesco-biscaccia-carrara/BigData_Projects)**  
 
 ---
 
