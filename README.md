@@ -1,6 +1,6 @@
 # Hi there, I'm Francesco Biscaccia Carrara! 👋
 
-🎓 Master’s student in Computer Engineering at the University of Padova.
+🎓 Master’s student in Computer Engineering at the University of Padova.  
 💻 Passionate about Linear Optimization, Machine Learning and Parallelization Computing.  
 🌍 Based in Venice, Italy 🇮🇹.  
 
