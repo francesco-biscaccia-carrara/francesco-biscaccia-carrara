@@ -32,6 +32,8 @@
 
 ---
 
+![X](https://upload.wikimedia.org/wikipedia/commons/6/60/X-logo.svg)
+
 ### 📫 My social
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/X-logo.svg" alt="X" width="20" height="20"/> [@biscaccia](https://x.com/biscaccia?s=21)
 - [francesco.biscacciacarrara@studenti.unipd.it](mailto:francesco.biscacciacarrara@studenti.unipd.it)
