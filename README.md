@@ -1,32 +1,32 @@
-# Hi there, I'm [Francesco Biscaccia Carrara]! 👋
+# Hi there, I'm Francesco Biscaccia Carrara! 👋
 
-🎓 Software Engineering student at the University of Padua.  
-💻 Passionate about [Your Interests/Tech Stack].  
-🌍 Based in Padua, Italy.  
+🎓 Software Engineering student at the University of Padova.  
+💻 Passionate about Linear Optimization, Machine Learning and Parallelization.  
+🌍 Based in Venice, Italy.  
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** [e.g., Python, JavaScript, Java, etc.]
-- **Frameworks & Libraries:** [e.g., React, Node.js, Django, etc.]
-- **Tools & Platforms:** [e.g., Git, Docker, AWS, etc.]
-- **Databases:** [e.g., MySQL, MongoDB, PostgreSQL, etc.]
+- **Languages:** Python, Java, C/C++
+- **Frameworks & Libraries:** Spark, Numpy, Matplotlib ,MPI
+- **Tools & Platforms:** Git, IBM ILOG CPLEX, SLURM queue
+- **Databases:** MySQL, PostgreSQL
 
 ---
 
 ### 📚 Currently Learning
-- [e.g., Advanced Python, Machine Learning, etc.]
-
+- *Advanced Algorithm Design*
+- *Game Theory*
+- *Graph Analysis*
+  as courses at University of Padova
 ---
 
 ### 🚀 Projects
-- **[Project 1 Name](https://github.com/yourusername/project1)**  
-  Description of what the project does and the tech stack used.
+- **[Parallel Sorting](https://github.com/yourusername/project1)**  
   
-- **[Project 2 Name](https://github.com/yourusername/project2)**  
-  Description of what the project does and the tech stack used.
+- **[Big Data Computing Projects](https://github.com/yourusername/project2)**  
 
-*(Add more projects as needed)*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
