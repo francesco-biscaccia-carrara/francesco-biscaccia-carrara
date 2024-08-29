@@ -33,8 +33,8 @@
 ---
 
 ### 📫 My social
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:your.email@domain.com)
+- [@biscaccia](https://x.com/biscaccia?s=21)
+- [francesco.biscacciacarrara@studenti.unipd.it](mailto:francesco.biscacciacarrara@studenti.unipd.it)
 
 ---
 
