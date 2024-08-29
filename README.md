@@ -35,6 +35,8 @@
 ### 📫 My social
 - [@biscaccia](https://x.com/biscaccia?s=21)
 - [francesco.biscacciacarrara@studenti.unipd.it](mailto:francesco.biscacciacarrara@studenti.unipd.it)
+![X](https://upload.wikimedia.org/wikipedia/commons/6/60/X-logo.svg | width=20)
+![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon_%282013-2020%29.svg | width=20)
 
 ---
 
