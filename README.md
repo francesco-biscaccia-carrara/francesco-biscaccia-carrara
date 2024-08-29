@@ -26,7 +26,7 @@
 ---
 
 ### 🚀 Projects
-- **[Parallel Bitonic Sorting](https://github.com/francesco-biscaccia-carrara/BitonicSort)** 
+- **[Parallel Bitonic Sorting](https://github.com/francesco-biscaccia-carrara/BitonicSort)** <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="20" height="20"/>
   
 - **[Big Data Computing Projects](https://github.com/francesco-biscaccia-carrara/BigData_Projects)**  
 
