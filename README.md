@@ -26,22 +26,18 @@
 ---
 
 ### 🚀 Projects
-- **[Parallel Bitonic Sorting](https://github.com/francesco-biscaccia-carrara/BitonicSort)** ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg&width=20px)
+- **[Parallel Bitonic Sorting](https://github.com/francesco-biscaccia-carrara/BitonicSort)** ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
   
 - **[Big Data Computing Projects](https://github.com/francesco-biscaccia-carrara/BigData_Projects)**  
 
 ---
 
-![X](https://upload.wikimedia.org/wikipedia/commons/6/60/X-logo.svg)
-
 ### 📫 My social
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/X-logo.svg" alt="X" width="20" height="20"/> [@biscaccia](https://x.com/biscaccia?s=21)
+- [@biscaccia](https://x.com/biscaccia?s=21)
 - [francesco.biscacciacarrara@studenti.unipd.it](mailto:francesco.biscacciacarrara@studenti.unipd.it)
-![X](https://upload.wikimedia.org/wikipedia/commons/6/60/X-logo.svg|width=20)
-![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon_%282013-2020%29.svg|width=20)
 
 ---
 
 ### ✨ Fun Facts
 - I love meditation and self-care 🍃, I'm obsessed with Karate 👊 and Japanese culture 🇯🇵.
-
+  
