@@ -26,15 +26,15 @@
 ---
 
 ### 🚀 Projects
-- **[Parallel Bitonic Sorting](https://github.com/francesco-biscaccia-carrara/BitonicSort)** ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+- **[Parallel Bitonic Sorting](https://github.com/francesco-biscaccia-carrara/BitonicSort)** 
   
 - **[Big Data Computing Projects](https://github.com/francesco-biscaccia-carrara/BigData_Projects)**  
 
 ---
 
 ### 📫 My social
-- [@biscaccia](https://x.com/biscaccia?s=21)
-- [francesco.biscacciacarrara@studenti.unipd.it](mailto:francesco.biscacciacarrara@studenti.unipd.it)
+- 🐦 [@biscaccia](https://x.com/biscaccia?s=21)
+- 📧 [francesco.biscacciacarrara@studenti.unipd.it](mailto:francesco.biscacciacarrara@studenti.unipd.it)
 
 ---
 
