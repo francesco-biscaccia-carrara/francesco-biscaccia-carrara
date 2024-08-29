@@ -2,7 +2,7 @@
 
 🎓 Software Engineering student at the University of Padova.  
 💻 Passionate about Linear Optimization, Machine Learning and Parallelization.  
-🌍 Based in Venice, Italy.  
+🌍 Based in Venice, Italy 🇮🇹.  
 
 ---
 
@@ -23,25 +23,21 @@
 - *Advanced Algorithm Design*
 - *Game Theory*
 - *Graph Analysis*
-
-as courses at University of Padova
 ---
 
 ### 🚀 Projects
-- **[Parallel Sorting](https://github.com/yourusername/project1)**  
+- **[Parallel Bitonic Sorting]([https://github.com/yourusername/project1](https://github.com/francesco-biscaccia-carrara/BitonicSort))**  
   
-- **[Big Data Computing Projects](https://github.com/yourusername/project2)**  
-
-
+- **[Big Data Computing Projects]([https://github.com/yourusername/project2](https://github.com/francesco-biscaccia-carrara/BigData_Projects))**  
 
 ---
 
-### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
+### 📫 My social
 - [Twitter](https://twitter.com/yourusername)
 - [Email](mailto:your.email@domain.com)
 
 ---
 
 ### ✨ Fun Facts
-- [e.g., I love solving puzzles, I'm a coffee enthusiast, etc.]
+- I love meditation and self-care 🍃, I'm obsessed with Karate 👊 and Japanese culture 🇯🇵.
+
