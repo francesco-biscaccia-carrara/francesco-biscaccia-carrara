@@ -8,8 +8,8 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, Java, C/C++
-- **Frameworks & Libraries:** Spark, Numpy, Matplotlib ,MPI
-- **Tools & Platforms:** Git, IBM ILOG CPLEX, SLURM queue
+- **Frameworks & Libraries:** Spark, Numpy, Matplotlib, MPI
+- **Tools & Platforms:** Git, IBM ILOG CPLEX, SLURM scheduler
 - **Databases:** MySQL, PostgreSQL
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
