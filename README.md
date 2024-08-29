@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm [Francesco Biscaccia Carrara]! 👋
 
-<!--
-**francesco-biscaccia-carrara/francesco-biscaccia-carrara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student at the University of Padua.  
+💻 Passionate about [Your Interests/Tech Stack].  
+🌍 Based in Padua, Italy.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** [e.g., Python, JavaScript, Java, etc.]
+- **Frameworks & Libraries:** [e.g., React, Node.js, Django, etc.]
+- **Tools & Platforms:** [e.g., Git, Docker, AWS, etc.]
+- **Databases:** [e.g., MySQL, MongoDB, PostgreSQL, etc.]
+
+---
+
+### 📚 Currently Learning
+- [e.g., Advanced Python, Machine Learning, etc.]
+
+---
+
+### 🚀 Projects
+- **[Project 1 Name](https://github.com/yourusername/project1)**  
+  Description of what the project does and the tech stack used.
+  
+- **[Project 2 Name](https://github.com/yourusername/project2)**  
+  Description of what the project does and the tech stack used.
+
+*(Add more projects as needed)*
+
+---
+
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/yourusername)
+- [Email](mailto:your.email@domain.com)
+
+---
+
+### ✨ Fun Facts
+- [e.g., I love solving puzzles, I'm a coffee enthusiast, etc.]
