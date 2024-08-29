@@ -26,11 +26,11 @@
 ---
 
 ### 🚀 Projects
-- **[Parallel Bitonic Sorting](https://github.com/francesco-biscaccia-carrara/BitonicSort)**
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **[Parallel Bitonic Sorting](https://github.com/francesco-biscaccia-carrara/BitonicSort)**  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   
-- **[Big Data Computing Projects](https://github.com/francesco-biscaccia-carrara/BigData_Projects)**
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- **[Big Data Computing Projects](https://github.com/francesco-biscaccia-carrara/BigData_Projects)**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
