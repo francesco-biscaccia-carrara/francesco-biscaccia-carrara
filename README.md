@@ -30,7 +30,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   
 ![MPI](https://img.shields.io/badge/MPI-Message%20Passing%20Interface-brightgreen)
   
-- **[Big Data Computing Projects](https://github.com/francesco-biscaccia-carrara/BigData_Projects)**  
+- **[Big Data Computing Projects](https://github.com/francesco-biscaccia-carrara/BigData_Projects)**: Welcome to my Big Data Computing course repository! This collection showcases the assignments completed for INP7079233 Big Data Computing during the 2023-2024 academic year, under the guidance of Professors Pietracaprina and Silvestri, at University of Padova.  
 ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
