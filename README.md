@@ -4,6 +4,7 @@
 💻 Passionate about Linear Optimization, Machine Learning and Parallelization Computing.  
 🌍 Based in Venice, Italy 🇮🇹.  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco-biscaccia-carrara&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🛠️ Tech Stack
@@ -17,12 +18,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco-biscaccia-carrara&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-biscaccia-carrara&hide=shell&theme=dark)
----
-
 
 ---
 ### 📚 Currently Learning
