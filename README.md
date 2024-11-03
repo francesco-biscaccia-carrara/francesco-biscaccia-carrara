@@ -17,8 +17,14 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco-biscaccia-carrara&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-biscaccia-carrara&hide=javascript,css,scss,html,makefile,shell&theme=dark)
 ---
 
+
+---
 ### 📚 Currently Learning
 - *Advanced Algorithm Design*
 - *Game Theory*
@@ -33,9 +39,6 @@
 - **[Big Data Computing Projects](https://github.com/francesco-biscaccia-carrara/BigData_Projects)**: assignment repository for the Big Data Computing course at the University of Padova for the academic year 2023-2024.  
 ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-biscaccia-carrara&hide=javascript,css,scss,html,makefile,shell&theme=dark)
----
 
 ### 📫 My social
 - 🐦 [@biscaccia](https://x.com/biscaccia?s=21)
