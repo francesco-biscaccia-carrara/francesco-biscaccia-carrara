@@ -20,7 +20,7 @@
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco-biscaccia-carrara&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-biscaccia-carrara&hide=javascript,css,scss,html,makefile,shell&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-biscaccia-carrara&shell&theme=dark)
 ---
 
 
