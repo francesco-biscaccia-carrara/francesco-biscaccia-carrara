@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, Java, C/C++
+- **Languages:** C++, C, Python, Java
 - **Frameworks & Libraries:** Spark, Numpy, Matplotlib, MPI
 - **Tools & Platforms:** Git, IBM ILOG CPLEX, SLURM scheduler
 - **Databases:** MySQL, PostgreSQL
@@ -22,9 +22,9 @@
 
 ---
 ### 📚 Currently Learning
-- *Advanced Algorithm Design*
-- *Game Theory*
+- *MIP Heuristic*
 - *Graph Analysis*
+- *Computer & Network Security*
 ---
 
 ### 🚀 Projects
@@ -37,8 +37,8 @@
 
 
 ### 📫 My social
-- 🐦 [@biscaccia](https://x.com/biscaccia?s=21)
-- 📧 [francesco.biscacciacarrara@studenti.unipd.it](mailto:francesco.biscacciacarrara@studenti.unipd.it)
+- [@biscaccia](https://x.com/biscaccia?s=21)
+- [francesco.biscacciacarrara@studenti.unipd.it](mailto:francesco.biscacciacarrara@studenti.unipd.it)
 
 ---
 
